@@ -1,0 +1,13 @@
+* remote origin
+  Fetch URL: https://github.com/aneagoie/face-recognition-brain.git
+  Push  URL: https://github.com/aneagoie/face-recognition-brain.git
+  HEAD branch: master
+  Remote branches:
+    dependabot/npm_and_yarn/loader-utils-2.0.4 tracked
+    dependabot/npm_and_yarn/lodash-4.17.21     tracked
+    dependabot/npm_and_yarn/url-parse-1.5.10   tracked
+    master                                     tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
